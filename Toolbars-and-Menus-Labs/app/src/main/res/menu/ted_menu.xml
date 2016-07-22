@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/ted_left_icon"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="Public Enemy"
+        app:showAsAction="always"/>
+    <item android:id="@+id/ted_mid_icon"
+        android:icon="@drawable/ic_bookmark_black_24dp"
+        android:title="Chuck"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/ted_right_icon"
+        android:icon="@drawable/ic_play_for_work_black_24dp"
+        android:title="Flava"
+        app:showAsAction="always"/>
+
+</menu>
